@@ -1,1 +1,1 @@
-Print ("Hii kunal, Welcome to Automation")
+print("Hii kunal, Welcome to Automation")
